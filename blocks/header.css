@@ -9,15 +9,6 @@
   max-height: 800px;
 }
 
-.logo {
-  position: relative;
-  top: 30px;
-  left: 30px;
-  margin-bottom: 183px;
-  width: 105px;
-  height: 39px;
-}
-
 .header__title {
   margin: 0;
   display: flex;
@@ -33,7 +24,7 @@
   letter-spacing: -1px;
 }
 
-.span-accent {
+.header__span-accent {
   color: #2f80ed;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
