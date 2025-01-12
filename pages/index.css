@@ -290,7 +290,7 @@ form {
   justify-content: center;
 }
 
-.form__label_direction_right {
+.form__label_direction-right {
   display: inline;
   margin-left: 12px;
 }
